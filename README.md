@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @panashe-tiriboyi
-- 👀 I’m interested in Web development, Artificial Intelligence and Blockchian tech
-- 🌱 I’m currently learning React js ,Django and a Computer Science Student
-- 💞️ I’m looking to collaborate on Web development projects
+- 👀 I’m interested in web development, IoT and Artificial Intelligence.
+- 🌱 I’m currently learning React js , .Net and a Computer Science Student
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me panashetiriboyi@gmail.com
 
 <!---
